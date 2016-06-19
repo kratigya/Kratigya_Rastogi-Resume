@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="myRating" parent="Theme.AppCompat">
+        <item name="android:colorControlNormal">#FF9800</item>
+        <item name="android:colorControlActivated">#448AFF</item>
+    </style>
+</resources>

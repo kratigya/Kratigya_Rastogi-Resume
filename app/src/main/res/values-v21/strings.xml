@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email_Id">kratigyarastogi0705@gmail.com</string>
+    <string name="name">Kratigya Rastogi</string>
+    <string name="prof">Android Developer</string>
+
+    <string name="aboutMe">Hi !!,\nI am Kratigya Rastogi, Pre-Final Year student at The LNM Institute of Information Technology.
+        I am an avid technology enthusiast and an inquisitive person.</string>
+    <string name="about_me">About Me</string>
+    <string name="educational_qualifications">Educational Qualifications</string>
+    <string name="technical_skills">Technical Skills</string>
+    <string name="projects">Projects</string>
+    <string name="position_of_responsibility">Position Of Responsibility</string>
+    <string name="volunteer_experience">Volunteer Experience</string>
+    <string name="achievements">Achievements</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="comment">Comment</string>
+</resources>

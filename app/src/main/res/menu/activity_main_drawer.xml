@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/aboutme"
+            android:icon="@drawable/about_me_ic"
+            android:title="@string/about_me"
+            />
+        <item
+            android:id="@+id/eduqual"
+            android:icon="@drawable/education_ic"
+            android:title="@string/educational_qualifications" />
+        <item
+            android:id="@+id/skills"
+            android:icon="@drawable/skill_ic"
+            android:title="@string/technical_skills" />
+        <item
+            android:id="@+id/projets"
+            android:icon="@drawable/project_ic"
+            android:title="@string/projects" />
+        <item
+            android:id="@+id/position"
+            android:icon="@drawable/position_ic"
+            android:title="@string/position_of_responsibility" />
+        <item
+            android:id="@+id/volunteer"
+            android:icon="@drawable/volunteer_ic"
+            android:title="@string/volunteer_experience" />
+        <item
+            android:id="@+id/achievements"
+            android:icon="@drawable/award_ic"
+            android:title="@string/achievements" />
+    </group>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/comment" />
+        </menu>
+    </item>
+
+</menu>

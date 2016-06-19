@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kratigya Rastogi - Resume</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="email_Id">kratigyarastogi0705@gmail.com</string>
+    <string name="name">Kratigya Rastogi</string>
+    <string name="prof">Android Developer</string>
+
+    <string name="aboutMe">Hi !!,\nI am Kratigya Rastogi, Pre-Final Year student at The LNM Institute of Information Technology.
+        I am an avid technology enthusiast and an inquisitive person.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_me">About Me</string>
+    <string name="educational_qualifications">Educational Qualifications</string>
+    <string name="technical_skills">Technical Skills</string>
+    <string name="projects">Projects</string>
+    <string name="position_of_responsibility">Position Of Responsibility</string>
+    <string name="volunteer_experience">Volunteer Experience</string>
+    <string name="achievements">Achievements</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="comment">Comment</string>
+</resources>
